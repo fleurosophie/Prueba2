@@ -4,4 +4,4 @@ Intro a Github
 ### HackWomen 👩🏻‍🔬
 
 
-**Google Developers Student Club**
+**Google Developers Student Clubs**
